@@ -5,10 +5,11 @@ categories:
 tags:
   - Post Formats
 last_modified_at: 2017-03-23T15:33:37-04:00
+image: https://gamintrolls.github.io/assets/images/demo1.jpg
 ---
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe width="640" height="360" src="https://gamintrolls.github.io/assets/images/demo1.jpg" frameborder="0" allowfullscreen></iframe>
+  <iframe width="1280" height="720" src="https://gamintrolls.github.io/assets/images/demo1.jpg" frameborder="0" allowfullscreen></iframe>
 </div>
 
 This post tests YouTube video embeds.
