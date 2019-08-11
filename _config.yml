@@ -9,9 +9,9 @@ remote_theme: "mmistakes/jekyll-theme-basically-basic"
 
 # Site Settings
 lang: en-US
-title: 
-email: dugan.nash@mailinator.com
-description: "Your new default Jekyll theme"
+title: Theme Panda
+email: 
+description: "Get Premium Themes For Free"
 baseurl: 
 url: 
 repository: "mmistakes/minimal-mistakes"
@@ -19,8 +19,8 @@ author:
   name: Dugan Nash
   twitter: Towlette_Pettetucci
   picture: https://api.adorable.io/avatars/285/johndoe.png
-twitter_username: Towlette_Pettetucci
-github_username: Towlette_Pettetucci
+twitter_username: 
+github_username: 
 logo: /assets/icons/basically-basic-logo-light.svg
 google_analytics: UA-2011187-6
 disqus:
